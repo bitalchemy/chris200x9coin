@@ -1,0 +1,9 @@
+Building chris200x9coin
+
+See doc/readme-qt.rst for instructions on building chris200x9coin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of chris200x9coin.
+
+See doc/build-*.txt for instructions on building chris200x9coin,
+the intended-for-services, no-graphical-interface, reference
+implementation of chris200x9coin.
