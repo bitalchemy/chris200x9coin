@@ -1,4 +1,4 @@
-chris200x9coin (FOO)
+chris200x9coin 
 ===========
 
 testcoin
